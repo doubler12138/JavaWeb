@@ -1,0 +1,3 @@
+这个代码实例主要用来熟悉EL中的隐式对象，注意param和paramValue的区别，当同一个参数有多个值时，
+param只会得到第一个值。还有就是如何通过pageContext获得对象的性质，在EL隐式对象中pageContext是
+唯一一个不是map的隐式对象，它是pageContext对象的一个实际引用。
