@@ -1,0 +1,1 @@
+通过StringBuilder类，将参数创建成StringBuilder对象，然后通过append方法在字符串尾增加字符
