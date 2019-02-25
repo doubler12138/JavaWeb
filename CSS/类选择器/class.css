@@ -1,0 +1,11 @@
+.normal{
+    color: bisque;
+}
+span.warning{
+    font-weight:bold;
+    color: brown;
+}
+.warning.urgent{
+    font-weight: bold;
+    color: aqua;
+}
