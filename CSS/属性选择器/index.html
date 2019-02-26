@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>属性选择器</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+<body>
+<h1 class="test">这是普通属性选择器h1[class]</h1><br/>
+<h1 class="test" title="test">这是多重普通属性选择器h1[class][title]</h1><br/>
+<h2 class="h2">这是根据具体属性值的选择器h2[class="h2"]</h2><br/>
+<p class="test warning">
+    这个是根据部分属性值的选择器，p[class~="warning"]
+</p>
+<span class="cloudy barren">这是根据部分属性值的选择器span[class*=cloud]</span>
+<span class="life-bearing cloudy">这是根据部分属性值的选择器span[class$=y]</span>
+</body>
+</html>

@@ -1,0 +1,21 @@
+h1[class]{
+    color: silver;
+}
+h1[class][title]{
+    font-weight: bold;
+}
+h2[class="h2"]{
+    color: brown;
+    font-family: 华文仿宋;
+}
+p[class~="warning"]{
+    color: blue;
+    font-weight: bold;
+}
+
+span[class$="y"]{
+    font-weight: bold;
+}
+span[class*="cloud"]{
+    font-style: italic;
+}
