@@ -1,0 +1,14 @@
+p:first-child{
+    font-weight: bold;
+    font-family: 华文仿宋;
+}
+
+li:first-child{
+    font-weight: bold;
+    font-family: "Courier New";
+}
+
+input:focus{
+    background-color: silver;
+    font-weight: bold;
+}

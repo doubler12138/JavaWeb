@@ -1,0 +1,20 @@
+body *:hover{
+    background: yellow;
+    font-size: 30px;
+}
+
+a:link{
+    color: brown;
+}
+
+a:link:active{
+    color: blue;
+}
+
+a:visited{
+    color: aqua;
+}
+
+a:visited:active{
+    color: maroon;
+}
