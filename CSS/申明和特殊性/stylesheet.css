@@ -1,0 +1,15 @@
+h1 + p {
+    color: black;
+    font-style: italic;
+}/* 0,0,0,2 */
+
+p {
+    color: gray;
+    background: white;
+    font-style: normal;
+}/* 0,0,0,1 */
+
+*.aside {
+    color: black;
+    background: silver;
+}/* 0,0,1,0 */
