@@ -1,0 +1,19 @@
+h1{
+    font-size: 24px;
+}
+
+h2{
+    font-size: 18px;
+}
+
+p{
+    font-size: 12px;
+}
+
+h1,h2,p{
+    margin-left: 1em;
+}
+
+small{
+    font-size: 1ex;
+}
