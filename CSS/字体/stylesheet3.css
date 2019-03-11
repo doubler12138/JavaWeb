@@ -1,0 +1,15 @@
+p {
+    font-weight: 900;
+}
+
+p span {
+    font-weight: 700;
+}
+
+strong {
+    font-weight: lighter;
+}
+
+b {
+    font-weight: lighter;
+}

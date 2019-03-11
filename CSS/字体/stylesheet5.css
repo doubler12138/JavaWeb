@@ -1,0 +1,19 @@
+body {
+    font-size: 15px;
+}
+
+p {
+    font-size: 12px;
+}
+
+em {
+    font-size: 120%;
+}
+
+strong {
+    font-size: 135%;
+}
+
+small, .fnote{
+    font-size: 75%;
+}

@@ -1,0 +1,23 @@
+p{
+    font-weight: normal;
+}
+
+p em{
+    font-weight: bolder;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h1 b{
+    font-weight: bolder;
+}
+
+div{
+    font-weight: 100;
+}
+
+div strong{
+    font-weight: bolder;
+}
