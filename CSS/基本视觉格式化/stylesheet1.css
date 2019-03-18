@@ -1,0 +1,55 @@
+#div1{
+    width: 600px;
+    padding: 30px;
+    background: silver;
+}
+p.param1{
+    border-style: ridge;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+    border-color: aqua;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 270px;
+    text-align: center;
+}
+p.param2{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
+}
+p.param3{
+    margin-left: auto;
+    margin-right: 100px;
+    width: auto;
+}
+p.param4{
+    margin-left: 100px;
+    margin-right: auto;
+    width: auto;
+}
+p.param5{
+    width: 67%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: auto;
+}
+#div2{
+    width: 400px;
+    border: 3px solid black;
+}
+p.wide{
+    margin-left: 10px;
+    width: auto;
+    margin-right: -50px;
+    border: 3px solid gray;
+}
+p.wide2{
+    margin-left: 10px;
+    width: 500px;
+    margin-right: auto;
+    border: 3px solid gray;
+}
