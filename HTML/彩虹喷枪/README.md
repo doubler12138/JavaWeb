@@ -1,1 +1,0 @@
-这是一个用html5 canvas标签加上JavaScript写的一个简单彩虹喷枪的小页面。
